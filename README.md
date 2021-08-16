@@ -3,12 +3,12 @@ I'm 19 years old frontend developer from Prague, Czech Republic. I enjoy working
 
 ## Skills
 - Love: Next.js, React, Javascript, Tailwind
-- Use: HTML&CSS, Sass, GraphqlREST, REST, MySQL, Firebase
-- Know: Typescript, React Native, Flutter, PHP, Wordpress, Svelte, jQuery
+- Use: HTML&CSS, Sass, Graphql, REST, MySQL, Firebase
+- Know: Typescript, Redux, React Native, Flutter, PHP, Wordpress, Svelte, jQuery
 - Want to learn: Node.js, Express.js
 
 ## Experience
-- 1 year of professional work as Frontend developer in [Dipozitiv](https://dipozitiv.cz/) (React, Nextjs, Svelte, HTML&CSS)
+- 1 year of professional work as Frontend developer in [Dipozitiv](https://dipozitiv.cz/) (React, Next,js, Svelte, HTML&CSS)
 - 2 years of freelance work (React, HTML&CSS, Sass, TailwindCSS)
 - 5 years of personal use (HTML&CSS, JavaScript) and 3 years of personal use (React)
 
