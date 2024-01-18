@@ -1,7 +1,7 @@
 # hi
 sometimes I code
 
-You can reach me at [jan@siegl.cz](jan@siegl.cz)
+you can reach me at [jan@siegl.cz](jan@siegl.cz)
 
 <!--
 **jan-siegl/jan-siegl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
